@@ -9,6 +9,6 @@ Some examples are:
 - Maintenance is an actual cost; usually the most significant
 - Autonomy and ownership are better than governance and control
 - Use the correct categories and measurements
-- [Data Dominates](https://aptro.github.io/programming/language/2016/06/28/Rob-Pike-Rules-Of-Programming.html)
+- [Data Dominates](http://doc.cat-v.org/bell_labs/pikestyle)
 
 My website is [henderjon.com](https://henderjon.com).
