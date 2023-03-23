@@ -5,10 +5,15 @@ Some examples are:
 
 - Simpler is better
 - Clear is better than clever
+- Solve one problem at a time
 - If it's hard to explain it's probably a bad idea
 - Maintenance is an actual cost; usually the most significant
+- Assume it will break and you will have to fix it
 - Autonomy and ownership are better than governance and control
-- Use the correct categories and measurements
+- Waste not; want not
+- Check to see that you're using the correct categories and measurements
+- Most of the effort should be spent clearly articulating the problem so solve
+- Don't take down a fence until you understand why it was built
 - [Data Dominates](http://doc.cat-v.org/bell_labs/pikestyle)
 
 My website is [henderjon.com](https://henderjon.com).
