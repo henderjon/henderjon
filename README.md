@@ -12,7 +12,7 @@ Some examples are:
 - Autonomy and ownership are better than governance and control
 - Waste not; want not
 - Check to see that you're using the correct categories and measurements
-- Most of the effort should be spent clearly articulating the problem so solve
+- Most of the effort should be spent clearly articulating the problem to solve
 - Don't take down a fence until you understand why it was built
 - [Data Dominates](http://doc.cat-v.org/bell_labs/pikestyle)
 
