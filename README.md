@@ -13,9 +13,12 @@ I'm a fan of the unix philosophy[^1], I don't wear flair, and I believe good ind
 - Assume it will break and you will have to fix it
 - Autonomy and ownership are better than governance and control
 - Waste not; want not
+- Patterns are not rules
+- Rules are not reasons
+- Culture eats strategy
 - Check to see that you're using the correct categories and measurements
-- Every solution must begin by articulating the problem
-- Not every problem is a problem
+- For what purpose is the system optimized?
+- What if the system is working correctly?
 - Don't take down a fence until you understand why it was built
 - Data Dominates[^2]
 
