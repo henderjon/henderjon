@@ -8,15 +8,15 @@ I'm a fan of the unix philosophy[^1], I don't wear flair, and I believe good ind
 - Simpler is better
 - Clear is better than clever
 - Solve one problem at a time
-- If it's hard to explain it's probably a bad idea
-- Maintenance is an actual cost; usually the most significant
+- If the implementation is hard to explain it's probably a bad idea
+- Maintenance is usually the most significant cost
 - Assume it will break and you will have to fix it
 - Autonomy and ownership are better than governance and control
 - Waste not; want not
 - Patterns are not rules
 - Rules are not reasons
 - Culture eats strategy
-- Check to see that you're using the correct categories and measurements
+- Use the correct categories and measurements
 - For what purpose is the system optimized?
 - What if the system is working correctly?
 - Don't take down a fence until you understand why it was built
